@@ -1,0 +1,4 @@
+﻿  PhysicsProject2.cpp
+c:\users\charles\google drive\school work\physics\physicsproject2\physicsproject2\physicsproject2.cpp(76): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  PhysicsProject2.vcxproj -> C:\Users\Charles\Google Drive\School Work\Physics\PhysicsProject2\Debug\PhysicsProject2.exe
+  PhysicsProject2.vcxproj -> C:\Users\Charles\Google Drive\School Work\Physics\PhysicsProject2\Debug\PhysicsProject2.pdb (Full PDB)
